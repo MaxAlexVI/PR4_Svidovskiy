@@ -43,6 +43,17 @@
 Во всех запросах после локалхоста идет версия api (v1)
 <img width="422" height="78" alt="image" src="https://github.com/user-attachments/assets/4664c0c5-f00e-4beb-a144-de43540de7da" />
 
+### Пагинация 
+Первая страница
+<img width="1530" height="840" alt="image" src="https://github.com/user-attachments/assets/cb0dc1a9-8d16-4fdd-85f3-f3919a8f8bd1" />
+Вторая страница
+<img width="1493" height="833" alt="image" src="https://github.com/user-attachments/assets/4ef35218-466e-4e4f-b480-42b6eca5d0cb" />
+Третья страница
+<img width="1518" height="654" alt="image" src="https://github.com/user-attachments/assets/25321619-1567-447c-a17b-40334942da0c" />
+
+
+
+
 
 
 
